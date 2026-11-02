@@ -1,0 +1,51 @@
+{
+  "_comment": "Backstage Screen Printing (Cody Zampedri, Rock Springs WY; started by brothers Cody, Cory and Kyle Zampedri, per the About block on backstagescreenprinting.com). Used by backstage-quote-form (POST /api/send_lead, shop_id=backstage), the replacement for the ConvertCalculator embed TJhn2CwDsEBqn6Dfi at backstagescreenprinting.com/live-pricing. That calculator showed NO price ('SUBMIT FOR A PRICE') and Backstage quotes by hand, so this is a LEAD form and renders the shared lead-customer.html / lead-client.html. No calculator points at this shop id. PLACE THIS FILE as obg-mail-api/shops/backstage.json.",
+  "_recipients_note": "Leads go To backstagescreenprinting@gmail.com, the one address the ConvertCalculator lead email went to (INVENTORY.md, lead routing table), with no Cc, exactly like today. ConvertCalculator never copied OBG on Backstage leads, so OBG has no inbox record of them; add olivebranchgrowth@gmail.com as shop_owner_email (Cc) if Brian wants one. Reply-To on the shop email is the customer (lib/leads.py), Reply-To on the customer's confirmation is shop_email.",
+
+  "shop_name": "Backstage Screen Printing",
+  "owner_name": "Cody",
+  "shop_email": "backstagescreenprinting@gmail.com",
+  "shop_owner_email": "",
+  "shop_phone": "(307) 352-2442",
+  "shop_address": "Rock Springs, WY",
+  "_address_note": "City and state only. No street address is published on backstagescreenprinting.com, and shop_address prints in the customer email footer.",
+
+  "origins": [
+    "https://backstagescreenprinting.com",
+    "https://www.backstagescreenprinting.com"
+  ],
+  "_origins_note": "send_lead.py derives a shop's CORS origin from its email domain, which does nothing for a gmail.com address. Listed here so the form also works if it is ever served from the shop's own domain. The form itself runs on a netlify.app or vercel.app host, which is already allowed.",
+
+  "theme": "dark",
+  "bg_color": "#0A0A0A",
+  "card_color": "#262626",
+  "panel_color": "#333333",
+  "border_color": "#4F4F4F",
+  "ink_color": "#FFFFFF",
+  "muted_color": "#FFFFFF",
+  "soft_color": "#FFFFFF",
+  "_neutral_note": "Every value is one of the live site's own Framer tokens, measured 2026-11-02: page #0A0A0A, surfaces #262626 and #333333, hairline #4F4F4F, text #FFFFFF. The site's body copy is #9E9E9E, which is mid gray, so it is deliberately not used: all text is white. CONTRAST: #FFFFFF on the card #262626 is 15.1:1, on the panel #333333 12.6:1, on the page #0A0A0A 19.8:1.",
+
+  "accent_color": "#FFFFFF",
+  "button_ink": "#0A0A0A",
+  "_accent_note": "The site has no accent color. Its one button ('Let's work together') is white with #0A0A0A ink, so the email buttons are the same. 19.8:1.",
+
+  "accent_deep": "#0A0A0A",
+  "_accent_deep_note": "The lead-client header band, which carries a hard-coded #FFFFFF h1. 19.8:1.",
+
+  "eyebrow_color": "#FFFFFF",
+  "_eyebrow_note": "lead-client.html uses this on the card (section labels, the customer's email and phone links) and on the accent_deep band. White clears both: 15.1 and 19.8.",
+
+  "clay_color": "#FFFFFF",
+  "_clay_note": "Only drawn as the shop name when logo_url is blank, on the dark card.",
+
+  "logo_url": "https://framerusercontent.com/images/BfdcrZpQ46sYJDsHMohiMuEt2x8.png",
+  "_logo_note": "The white BACKSTAGE / SCREEN PRINTING wordmark the site's hero serves (2360x448, transparent). WHITE, so it only reads on a dark card. The shared templates draw it 36px tall (about 190px wide). Once the form is deployed, consider pointing this at <form host>/assets/backstage-wordmark.png (the same file, resized to 800px, shipped in the form's public/assets) so a Framer re-upload cannot break the email.",
+
+  "intro_copy": "Thanks for sending us your project. Everything you picked is below, so you can check it over.",
+  "followup_copy": "We will send you mockups and a final proof to approve before anything is printed. Questions in the meantime? Call us at (307) 352-2442.",
+  "_copy_note": "Both lines restate only what the old calculator promised ('We will send you mockups & a final proof to approve'). No turnaround or reply time is promised. KNOWN GAP: the shared lead-customer.html button reads 'Call or Text (307) 352-2442', and nobody has confirmed that number takes texts. Confirm with Cody, or give this shop its own template_customer_lead that says Call.",
+
+  "subject_client_lead": "New Project Request - {{name}} ({{quantity}} pieces)",
+  "_subject_note": "The shared default is 'New Lead - name (N pieces)'. ConvertCalculator's subject was 'New submission on Your Calculator'. This keeps the piece count Cody is used to scanning for and says what it is."
+}

@@ -1,0 +1,3878 @@
+{
+ "tshirts": [
+  {
+   "id": "gildan-5000",
+   "label": "Gildan 5000",
+   "tag": "Economy",
+   "brand": "Gildan",
+   "styleName": "5000",
+   "styleNumber": "00060",
+   "title": "Unisex Heavy Cotton™ T-Shirt",
+   "blurb": "5.3 oz · 100% U.S. cotton",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/16_fl.jpg",
+   "colors": [
+    {
+     "name": "Antique Cherry Red",
+     "hex": "#971B2F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33673_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33476_f_fl.jpg"
+    },
+    {
+     "name": "Antique Irish Green",
+     "hex": "#00843D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33674_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33477_f_fl.jpg"
+    },
+    {
+     "name": "Antique Jade Dome",
+     "hex": "#006269",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33675_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33496_f_fl.jpg"
+    },
+    {
+     "name": "Antique Orange",
+     "hex": "#B33D26",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33676_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33499_f_fl.jpg"
+    },
+    {
+     "name": "Antique Sapphire",
+     "hex": "#006A8E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33677_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33483_f_fl.jpg"
+    },
+    {
+     "name": "Aquatic",
+     "hex": "#6DA29E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/35529_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/114510_f_fl.jpg"
+    },
+    {
+     "name": "Ash",
+     "hex": "#C8C9C7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33678_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16785_f_fl.jpg"
+    },
+    {
+     "name": "Azalea",
+     "hex": "#DD74A1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33679_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16786_f_fl.jpg"
+    },
+    {
+     "name": "Berry",
+     "hex": "#7F2952",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33680_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33485_f_fl.jpg"
+    },
+    {
+     "name": "Black",
+     "hex": "#25282A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33681_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16787_f_fl.jpg"
+    },
+    {
+     "name": "Blackberry",
+     "hex": "#221C35",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33682_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33481_f_fl.jpg"
+    },
+    {
+     "name": "Blue Dusk",
+     "hex": "#253746",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/35527_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/114522_f_fl.jpg"
+    },
+    {
+     "name": "Brown Savana",
+     "hex": "#7A6855",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33683_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33488_f_fl.jpg"
+    },
+    {
+     "name": "Cardinal",
+     "hex": "#8A1538",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33684_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16788_f_fl.jpg"
+    },
+    {
+     "name": "Carolina Blue",
+     "hex": "#7ba4db",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33685_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16789_f_fl.jpg"
+    },
+    {
+     "name": "Charcoal",
+     "hex": "#66676C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33686_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16790_f_fl.jpg"
+    },
+    {
+     "name": "Cobalt",
+     "hex": "#171C8F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33687_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40523_f_fl.jpg"
+    },
+    {
+     "name": "Coral Silk",
+     "hex": "#FB637E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33688_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33479_f_fl.jpg"
+    },
+    {
+     "name": "Cornsilk",
+     "hex": "#f0ec74",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33689_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/42437_f_fl.jpg"
+    },
+    {
+     "name": "Daisy",
+     "hex": "#fed141",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33690_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16791_f_fl.jpg"
+    },
+    {
+     "name": "Dark Chocolate",
+     "hex": "#382F2D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33691_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30025_f_fl.jpg"
+    },
+    {
+     "name": "Dark Heather",
+     "hex": "#425563",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33692_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40520_f_fl.jpg"
+    },
+    {
+     "name": "Dusty Rose",
+     "hex": "#E1BBB4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/35528_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/114512_f_fl.jpg"
+    },
+    {
+     "name": "Electric Green",
+     "hex": "#43B02A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33693_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37317_f_fl.jpg"
+    },
+    {
+     "name": "Fan Dark Green",
+     "hex": "#205C40",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49795_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137508_f_fl.jpg"
+    },
+    {
+     "name": "Fan Dark Purple",
+     "hex": "#3F2A56",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49794_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137509_f_fl.jpg"
+    },
+    {
+     "name": "Fan Deep Royal",
+     "hex": "#21366E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49793_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137510_f_fl.jpg"
+    },
+    {
+     "name": "Forest Green",
+     "hex": "#273B33",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33694_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16793_f_fl.jpg"
+    },
+    {
+     "name": "Garnet",
+     "hex": "#7D2935",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33695_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32126_f_fl.jpg"
+    },
+    {
+     "name": "Gold",
+     "hex": "#FFA300",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33696_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30026_f_fl.jpg"
+    },
+    {
+     "name": "Graphite Heather",
+     "hex": "#707372",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33697_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46045_f_fl.jpg"
+    },
+    {
+     "name": "Gravel",
+     "hex": "#888B8D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33698_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33486_f_fl.jpg"
+    },
+    {
+     "name": "Heather Military Green",
+     "hex": "#7E7F74",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33699_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33475_f_fl.jpg"
+    },
+    {
+     "name": "Heather Navy",
+     "hex": "#333F48",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33700_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/68108_f_fl.jpg"
+    },
+    {
+     "name": "Heather Neon Coral",
+     "hex": "#FF9383",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/51215_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/107672_f_fl.jpg"
+    },
+    {
+     "name": "Heather Radiant Orchid",
+     "hex": "#A15A95",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33701_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52325_f_fl.jpg"
+    },
+    {
+     "name": "Heather Red",
+     "hex": "#BF0D3E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33702_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33487_f_fl.jpg"
+    },
+    {
+     "name": "Heather Sapphire",
+     "hex": "#0076A8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33703_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33474_f_fl.jpg"
+    },
+    {
+     "name": "Heliconia",
+     "hex": "#DB3E79",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33704_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32127_f_fl.jpg"
+    },
+    {
+     "name": "Ice Grey",
+     "hex": "#D7D2CB",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33705_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37312_f_fl.jpg"
+    },
+    {
+     "name": "Indigo Blue",
+     "hex": "#486D87",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33706_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16795_f_fl.jpg"
+    },
+    {
+     "name": "Iris",
+     "hex": "#3975B7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/7545_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/107675_f_fl.jpg"
+    },
+    {
+     "name": "Irish Green",
+     "hex": "#00A74A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33707_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30027_f_fl.jpg"
+    },
+    {
+     "name": "Jade Dome",
+     "hex": "#008E85",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/6433_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137507_f_fl.jpg"
+    },
+    {
+     "name": "Kiwi",
+     "hex": "#89A84F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33708_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30028_f_fl.jpg"
+    },
+    {
+     "name": "Light Blue",
+     "hex": "#A4C8E1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33709_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16798_f_fl.jpg"
+    },
+    {
+     "name": "Light Pink",
+     "hex": "#E4C6D4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33710_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30029_f_fl.jpg"
+    },
+    {
+     "name": "Lilac",
+     "hex": "#563D82",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33711_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37313_f_fl.jpg"
+    },
+    {
+     "name": "Lime",
+     "hex": "#92BF55",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33712_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30030_f_fl.jpg"
+    },
+    {
+     "name": "Maroon",
+     "hex": "#5B2B42",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33713_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/27238_f_fl.jpg"
+    },
+    {
+     "name": "Midnight",
+     "hex": "#005670",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33714_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37314_f_fl.jpg"
+    },
+    {
+     "name": "Military Green",
+     "hex": "#5E7461",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33715_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30031_f_fl.jpg"
+    },
+    {
+     "name": "Mint Green",
+     "hex": "#A0CFA8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33716_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40519_f_fl.jpg"
+    },
+    {
+     "name": "Natural",
+     "hex": "#E7CEB5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33717_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16802_f_fl.jpg"
+    },
+    {
+     "name": "Navy",
+     "hex": "#263147",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33718_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16803_f_fl.jpg"
+    },
+    {
+     "name": "Neon Blue",
+     "hex": "#0C51A3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33719_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/42440_f_fl.jpg"
+    },
+    {
+     "name": "Neon Green",
+     "hex": "#93DA49",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33720_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/42441_f_fl.jpg"
+    },
+    {
+     "name": "Off White",
+     "hex": "#F5ECD2",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/35526_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/114519_f_fl.jpg"
+    },
+    {
+     "name": "Old Gold",
+     "hex": "#C39367",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33721_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32128_f_fl.jpg"
+    },
+    {
+     "name": "Orange",
+     "hex": "#F4633A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33722_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16804_f_fl.jpg"
+    },
+    {
+     "name": "Prairie Dust",
+     "hex": "#7A7256",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/51216_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/107673_f_fl.jpg"
+    },
+    {
+     "name": "Purple",
+     "hex": "#464E7E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33723_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30032_f_fl.jpg"
+    },
+    {
+     "name": "Red",
+     "hex": "#BA0C2F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33724_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/27239_f_fl.jpg"
+    },
+    {
+     "name": "Royal",
+     "hex": "#224D8F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33725_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16806_f_fl.jpg"
+    },
+    {
+     "name": "Russet",
+     "hex": "#512F2E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33726_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33482_f_fl.jpg"
+    },
+    {
+     "name": "Safety Green",
+     "hex": "#C6D219",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33727_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40521_f_fl.jpg"
+    },
+    {
+     "name": "Safety Orange",
+     "hex": "#E5801C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33728_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40522_f_fl.jpg"
+    },
+    {
+     "name": "Safety Pink",
+     "hex": "#E16F8F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33729_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/42438_f_fl.jpg"
+    },
+    {
+     "name": "Sand",
+     "hex": "#CABFAD",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33730_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16807_f_fl.jpg"
+    },
+    {
+     "name": "Sapphire",
+     "hex": "#0077B5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33731_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16808_f_fl.jpg"
+    },
+    {
+     "name": "Sky",
+     "hex": "#71c5e8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33732_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16809_f_fl.jpg"
+    },
+    {
+     "name": "Sport Grey",
+     "hex": "#97999B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33733_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16810_f_fl.jpg"
+    },
+    {
+     "name": "Sunset",
+     "hex": "#DC6B2F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33734_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37315_f_fl.jpg"
+    },
+    {
+     "name": "Tangerine",
+     "hex": "#FF8A3D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33735_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16811_f_fl.jpg"
+    },
+    {
+     "name": "Tennessee Orange",
+     "hex": "#FF8200",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33736_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32129_f_fl.jpg"
+    },
+    {
+     "name": "Texas Orange",
+     "hex": "#B65A30",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33737_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/42439_f_fl.jpg"
+    },
+    {
+     "name": "Tropical Blue",
+     "hex": "#00859B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33738_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37316_f_fl.jpg"
+    },
+    {
+     "name": "Turf Green",
+     "hex": "#007A3E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33739_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33495_f_fl.jpg"
+    },
+    {
+     "name": "Tweed",
+     "hex": "#4B4F54",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33740_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33480_f_fl.jpg"
+    },
+    {
+     "name": "Violet",
+     "hex": "#8094DD",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33741_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16812_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#FFFFFF",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33742_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16813_f_fl.jpg"
+    },
+    {
+     "name": "Yellow Haze",
+     "hex": "#F5E1A4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33743_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16814_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  },
+  {
+   "id": "gildan-64000",
+   "label": "Gildan Softstyle 64000",
+   "tag": "Most Comfortable",
+   "brand": "Gildan",
+   "styleName": "64000",
+   "styleNumber": "00660",
+   "title": "Unisex Softstyle® T-Shirt",
+   "blurb": "4.5 oz · 100% U.S. ring-spun cotton",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/32_fl.jpg",
+   "colors": [
+    {
+     "name": "Antique Cherry Red",
+     "hex": "#971B2F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33848_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33310_f_fl.jpg"
+    },
+    {
+     "name": "Antique Heliconia",
+     "hex": "#AA0061",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33849_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37318_f_fl.jpg"
+    },
+    {
+     "name": "Antique Sapphire",
+     "hex": "#006A8E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33851_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33309_f_fl.jpg"
+    },
+    {
+     "name": "Azalea",
+     "hex": "#DD74A1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33852_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52348_f_fl.jpg"
+    },
+    {
+     "name": "Black",
+     "hex": "#25282A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33853_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29881_f_fl.jpg"
+    },
+    {
+     "name": "Cardinal Red",
+     "hex": "#8A1538",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33855_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16924_f_fl.jpg"
+    },
+    {
+     "name": "Carolina Blue",
+     "hex": "#7ba4db",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33856_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52352_f_fl.jpg"
+    },
+    {
+     "name": "Charcoal",
+     "hex": "#66676C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33857_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16925_f_fl.jpg"
+    },
+    {
+     "name": "Cherry Red",
+     "hex": "#AC2B37",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33858_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16926_f_fl.jpg"
+    },
+    {
+     "name": "Coral Silk",
+     "hex": "#FB637E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33859_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52359_f_fl.jpg"
+    },
+    {
+     "name": "Cornsilk",
+     "hex": "#f0ec74",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33860_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/42447_f_fl.jpg"
+    },
+    {
+     "name": "Daisy",
+     "hex": "#fed141",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33861_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52360_f_fl.jpg"
+    },
+    {
+     "name": "Dark Chocolate",
+     "hex": "#382F2D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33862_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29866_f_fl.jpg"
+    },
+    {
+     "name": "Dark Heather",
+     "hex": "#425563",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33863_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32215_f_fl.jpg"
+    },
+    {
+     "name": "Fan Candy Pink",
+     "hex": "#D592AA",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49834_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137555_f_fl.jpg"
+    },
+    {
+     "name": "Fan Dark Green",
+     "hex": "#205C40",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49835_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137556_f_fl.jpg"
+    },
+    {
+     "name": "Fan Deep Royal",
+     "hex": "#21366E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49837_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137559_f_fl.jpg"
+    },
+    {
+     "name": "Fan Marine Green",
+     "hex": "#003A40",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49838_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137560_f_fl.jpg"
+    },
+    {
+     "name": "Fan Texas Orange",
+     "hex": "#9E5330",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49839_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137561_f_fl.jpg"
+    },
+    {
+     "name": "Forest",
+     "hex": "#273B33",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33864_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29882_f_fl.jpg"
+    },
+    {
+     "name": "Garnet",
+     "hex": "#7D2935",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9525_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137562_f_fl.jpg"
+    },
+    {
+     "name": "Gold",
+     "hex": "#FFA300",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33865_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/78863_f_fl.jpg"
+    },
+    {
+     "name": "Graphite Heather",
+     "hex": "#707372",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33866_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52363_f_fl.jpg"
+    },
+    {
+     "name": "Heather Berry",
+     "hex": "#994878",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33867_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/68150_f_fl.jpg"
+    },
+    {
+     "name": "Heather Cardinal Red",
+     "hex": "#9B2743",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33868_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52364_f_fl.jpg"
+    },
+    {
+     "name": "Heather Dark Grey",
+     "hex": "#53535A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33869_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/108795_f_fl.jpg"
+    },
+    {
+     "name": "Heather Galapagos Blue",
+     "hex": "#0093B2",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33870_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/68154_f_fl.jpg"
+    },
+    {
+     "name": "Heather Heliconia",
+     "hex": "#E24585",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33871_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/68155_f_fl.jpg"
+    },
+    {
+     "name": "Heather Indigo",
+     "hex": "#4D6995",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33872_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52365_f_fl.jpg"
+    },
+    {
+     "name": "Heather Irish Green",
+     "hex": "#5CAA7F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33873_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32217_f_fl.jpg"
+    },
+    {
+     "name": "Heather Maroon",
+     "hex": "#672E45",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33874_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32218_f_fl.jpg"
+    },
+    {
+     "name": "Heather Military Green",
+     "hex": "#7E7F74",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33875_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33312_f_fl.jpg"
+    },
+    {
+     "name": "Heather Navy",
+     "hex": "#333F48",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33876_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32216_f_fl.jpg"
+    },
+    {
+     "name": "Heather Oatmeal",
+     "hex": "#CDC4A9",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49840_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137563_f_fl.jpg"
+    },
+    {
+     "name": "Heather Orange",
+     "hex": "#FF8D6D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33877_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33316_f_fl.jpg"
+    },
+    {
+     "name": "Heather Purple",
+     "hex": "#614B79",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33878_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33317_f_fl.jpg"
+    },
+    {
+     "name": "Heather Radiant Orchid",
+     "hex": "#A15A95",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33879_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/68148_f_fl.jpg"
+    },
+    {
+     "name": "Heather Red",
+     "hex": "#BF0D3E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33880_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46143_f_fl.jpg"
+    },
+    {
+     "name": "Heather Royal",
+     "hex": "#307FE2",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33881_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32219_f_fl.jpg"
+    },
+    {
+     "name": "Heather Sapphire",
+     "hex": "#0076A8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33882_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52367_f_fl.jpg"
+    },
+    {
+     "name": "Heliconia",
+     "hex": "#DB3E79",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33883_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/98962_f_fl.jpg"
+    },
+    {
+     "name": "Ice Grey",
+     "hex": "#D7D2CB",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33884_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/78849_f_fl.jpg"
+    },
+    {
+     "name": "Indigo Blue",
+     "hex": "#486D87",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33885_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16930_f_fl.jpg"
+    },
+    {
+     "name": "Iris",
+     "hex": "#3975B7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33886_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52371_f_fl.jpg"
+    },
+    {
+     "name": "Irish Green",
+     "hex": "#00A74A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33887_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29867_f_fl.jpg"
+    },
+    {
+     "name": "Jade Dome",
+     "hex": "#008E85",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33888_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52372_f_fl.jpg"
+    },
+    {
+     "name": "Kelly Green",
+     "hex": "#00805E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33889_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/78846_f_fl.jpg"
+    },
+    {
+     "name": "Kiwi",
+     "hex": "#89A84F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33890_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16931_f_fl.jpg"
+    },
+    {
+     "name": "Light Blue",
+     "hex": "#A4C8E1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33891_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16932_f_fl.jpg"
+    },
+    {
+     "name": "Light Pink",
+     "hex": "#E4C6D4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33892_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/104272_f_fl.jpg"
+    },
+    {
+     "name": "Lime",
+     "hex": "#92BF55",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33893_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52374_f_fl.jpg"
+    },
+    {
+     "name": "Maroon",
+     "hex": "#5B2B42",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33894_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29868_f_fl.jpg"
+    },
+    {
+     "name": "Metro Blue",
+     "hex": "#464E7E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33895_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52383_f_fl.jpg"
+    },
+    {
+     "name": "Military Green",
+     "hex": "#5E7461",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33897_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16933_f_fl.jpg"
+    },
+    {
+     "name": "Mint Green",
+     "hex": "#A0CFA8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33898_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52385_f_fl.jpg"
+    },
+    {
+     "name": "Natural",
+     "hex": "#E7CEB5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33899_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52386_f_fl.jpg"
+    },
+    {
+     "name": "Navy",
+     "hex": "#263147",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33901_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29883_f_fl.jpg"
+    },
+    {
+     "name": "Neon Blue",
+     "hex": "#0C51A3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49841_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137564_f_fl.jpg"
+    },
+    {
+     "name": "Off White",
+     "hex": "#F5ECD2",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/35525_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/107628_f_fl.jpg"
+    },
+    {
+     "name": "Orange",
+     "hex": "#F4633A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33902_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16935_f_fl.jpg"
+    },
+    {
+     "name": "Paragon",
+     "hex": "#948794",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33904_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/107622_f_fl.jpg"
+    },
+    {
+     "name": "Pistachio",
+     "hex": "#A9C47F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33906_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/107630_f_fl.jpg"
+    },
+    {
+     "name": "Prairie Dust",
+     "hex": "#7A7256",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/51219_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/141985_f_fl.jpg"
+    },
+    {
+     "name": "Purple",
+     "hex": "#464E7E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33907_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37320_f_fl.jpg"
+    },
+    {
+     "name": "Red",
+     "hex": "#BA0C2F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33909_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29869_f_fl.jpg"
+    },
+    {
+     "name": "Royal",
+     "hex": "#224D8F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33910_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29870_f_fl.jpg"
+    },
+    {
+     "name": "Sage",
+     "hex": "#819E87",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33912_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/104276_f_fl.jpg"
+    },
+    {
+     "name": "Sand",
+     "hex": "#CABFAD",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33913_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/16937_f_fl.jpg"
+    },
+    {
+     "name": "Sapphire",
+     "hex": "#0077B5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33914_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46140_f_fl.jpg"
+    },
+    {
+     "name": "Sky",
+     "hex": "#71c5e8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33915_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/104275_f_fl.jpg"
+    },
+    {
+     "name": "Sport Grey",
+     "hex": "#97999B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33916_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29884_f_fl.jpg"
+    },
+    {
+     "name": "Stone Blue",
+     "hex": "#7E93A7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33917_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/104279_f_fl.jpg"
+    },
+    {
+     "name": "Tropical Blue",
+     "hex": "#00859B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33918_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52388_f_fl.jpg"
+    },
+    {
+     "name": "Turf Green",
+     "hex": "#007A3E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/10058_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137565_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#FFFFFF",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33919_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29885_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  },
+  {
+   "id": "next-level-3600",
+   "label": "Next Level 3600",
+   "tag": "Most Popular",
+   "brand": "Next Level",
+   "styleName": "3600",
+   "styleNumber": "00618",
+   "title": "Unisex Cotton T-Shirt",
+   "blurb": "4.3 oz · 100% combed ring-spun cotton",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/3214_fl.jpg",
+   "colors": [
+    {
+     "name": "Antique Gold",
+     "hex": "#E19640",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34088_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/72026_f_fl.jpg"
+    },
+    {
+     "name": "Banana Cream",
+     "hex": "#FBD897",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34089_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40990_f_fl.jpg"
+    },
+    {
+     "name": "Black",
+     "hex": "#25282a",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34090_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40991_f_fl.jpg"
+    },
+    {
+     "name": "Blue Jean",
+     "hex": "#516B84",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34091_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/108717_f_fl.jpg"
+    },
+    {
+     "name": "Bone",
+     "hex": "#DFDDD7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/35366_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/116031_f_fl.jpg"
+    },
+    {
+     "name": "Cardinal",
+     "hex": "#8E3841",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34092_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40992_f_fl.jpg"
+    },
+    {
+     "name": "Classic Orange",
+     "hex": "#F2552C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34093_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/55243_f_fl.jpg"
+    },
+    {
+     "name": "Clay",
+     "hex": "#945A2C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/35367_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/116033_f_fl.jpg"
+    },
+    {
+     "name": "Cool Blue",
+     "hex": "#34558B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34094_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43904_f_fl.jpg"
+    },
+    {
+     "name": "Cream",
+     "hex": "#DFD1BE",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34095_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40999_f_fl.jpg"
+    },
+    {
+     "name": "Dark Chocolate",
+     "hex": "#3C302F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34096_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40993_f_fl.jpg"
+    },
+    {
+     "name": "Desert Pink",
+     "hex": "#D3A297",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34097_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/79785_f_fl.jpg"
+    },
+    {
+     "name": "Forest Green",
+     "hex": "#2F5050",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34098_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43906_f_fl.jpg"
+    },
+    {
+     "name": "Gold",
+     "hex": "#ffb549",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34099_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43907_f_fl.jpg"
+    },
+    {
+     "name": "Graphite Black",
+     "hex": "#413D3F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34100_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/89879_f_fl.jpg"
+    },
+    {
+     "name": "Heather Grey",
+     "hex": "#7b7e79",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34101_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40994_f_fl.jpg"
+    },
+    {
+     "name": "Heavy Metal",
+     "hex": "#525A5B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34102_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40995_f_fl.jpg"
+    },
+    {
+     "name": "Hot Pink",
+     "hex": "#E55982",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34134_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/141204_f_fl.jpg"
+    },
+    {
+     "name": "Indigo",
+     "hex": "#34414E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34103_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40996_f_fl.jpg"
+    },
+    {
+     "name": "Kelly Green",
+     "hex": "#008C45",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34104_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40997_f_fl.jpg"
+    },
+    {
+     "name": "Light Blue",
+     "hex": "#B5CED4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34105_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40998_f_fl.jpg"
+    },
+    {
+     "name": "Light Grey",
+     "hex": "#AEB2B5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34106_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41000_f_fl.jpg"
+    },
+    {
+     "name": "Light Olive",
+     "hex": "#80856D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34107_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41001_f_fl.jpg"
+    },
+    {
+     "name": "Light Pink",
+     "hex": "#F5BEC7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34108_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43905_f_fl.jpg"
+    },
+    {
+     "name": "Maroon",
+     "hex": "#5C2C35",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34109_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43908_f_fl.jpg"
+    },
+    {
+     "name": "Mauve",
+     "hex": "#A26666",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34110_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/96033_f_fl.jpg"
+    },
+    {
+     "name": "Midnight Navy",
+     "hex": "#2A3244",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34111_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41004_f_fl.jpg"
+    },
+    {
+     "name": "Military Green",
+     "hex": "#656344",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34112_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41002_f_fl.jpg"
+    },
+    {
+     "name": "Natural",
+     "hex": "#EEE5D3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34113_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41003_f_fl.jpg"
+    },
+    {
+     "name": "Oatmeal",
+     "hex": "#D2CFC4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34114_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/89881_f_fl.jpg"
+    },
+    {
+     "name": "Oxblood",
+     "hex": "#3D2D2E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34115_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/104521_f_fl.jpg"
+    },
+    {
+     "name": "Peri Blue",
+     "hex": "#849BCC",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34116_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/108718_f_fl.jpg"
+    },
+    {
+     "name": "Purple Rush",
+     "hex": "#603F83",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34117_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41007_f_fl.jpg"
+    },
+    {
+     "name": "Red",
+     "hex": "#CD212A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34118_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41006_f_fl.jpg"
+    },
+    {
+     "name": "Royal",
+     "hex": "#1B5091",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34119_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41005_f_fl.jpg"
+    },
+    {
+     "name": "Royal Pine",
+     "hex": "#3B5855",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34120_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/96035_f_fl.jpg"
+    },
+    {
+     "name": "Sand",
+     "hex": "#CFC8BD",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34121_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43909_f_fl.jpg"
+    },
+    {
+     "name": "Shiitake",
+     "hex": "#736460",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/35368_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/116034_f_fl.jpg"
+    },
+    {
+     "name": "Stonewash Denim",
+     "hex": "#A3B4C4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34122_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/96037_f_fl.jpg"
+    },
+    {
+     "name": "Tahiti Blue",
+     "hex": "#33BECC",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34123_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41009_f_fl.jpg"
+    },
+    {
+     "name": "Tan",
+     "hex": "#B49F89",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34124_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/108719_f_fl.jpg"
+    },
+    {
+     "name": "Teal",
+     "hex": "#009999",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34125_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/96032_f_fl.jpg"
+    },
+    {
+     "name": "Turquoise",
+     "hex": "#0088B0",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34126_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41008_f_fl.jpg"
+    },
+    {
+     "name": "Warm Grey",
+     "hex": "#8C857B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34127_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41380_f_fl.jpg"
+    },
+    {
+     "name": "Watermelon",
+     "hex": "#E04951",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34128_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/108720_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#F4F9FF",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34129_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41010_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  },
+  {
+   "id": "next-level-6210",
+   "label": "Next Level 6210",
+   "tag": "Quality For Price",
+   "brand": "Next Level",
+   "styleName": "6210",
+   "styleNumber": "20618",
+   "title": "Unisex CVC T-Shirt",
+   "blurb": "4.3 oz · 60/40 combed ring-spun cotton/polyester",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/3227_fl.jpg",
+   "colors": [
+    {
+     "name": "Apple Green",
+     "hex": "#99c221",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34407_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43895_f_fl.jpg"
+    },
+    {
+     "name": "Banana Cream",
+     "hex": "#FBD897",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34408_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45991_f_fl.jpg"
+    },
+    {
+     "name": "Black",
+     "hex": "#25282A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34409_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41094_f_fl.jpg"
+    },
+    {
+     "name": "Bondi Blue",
+     "hex": "#289DBE",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34410_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45990_f_fl.jpg"
+    },
+    {
+     "name": "Cardinal",
+     "hex": "#8E3841",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34411_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41096_f_fl.jpg"
+    },
+    {
+     "name": "Charcoal",
+     "hex": "#373a36",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34412_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41095_f_fl.jpg"
+    },
+    {
+     "name": "Cream",
+     "hex": "#DFD1BE",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34413_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45996_f_fl.jpg"
+    },
+    {
+     "name": "Dark Heather Grey",
+     "hex": "#707372",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34414_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41097_f_fl.jpg"
+    },
+    {
+     "name": "Espresso",
+     "hex": "#5F4C40",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34415_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41098_f_fl.jpg"
+    },
+    {
+     "name": "Heather Columbia Blue",
+     "hex": "#7BA4DB",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34416_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/96376_f_fl.jpg"
+    },
+    {
+     "name": "Heather Cool Blue",
+     "hex": "#004680",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34417_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/96379_f_fl.jpg"
+    },
+    {
+     "name": "Heather Coyote Brown",
+     "hex": "#8B7C5E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/50740_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/140632_f_fl.jpg"
+    },
+    {
+     "name": "Heather Forest Green",
+     "hex": "#00433D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34419_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/96377_f_fl.jpg"
+    },
+    {
+     "name": "Heather Heavy Metal",
+     "hex": "#505759",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34420_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/96374_f_fl.jpg"
+    },
+    {
+     "name": "Heather Light Pink",
+     "hex": "#F5BEC7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34422_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/108702_f_fl.jpg"
+    },
+    {
+     "name": "Heather Maroon",
+     "hex": "#6B3B44",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34424_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/96378_f_fl.jpg"
+    },
+    {
+     "name": "Heather Mauve",
+     "hex": "#A26666",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34425_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/96375_f_fl.jpg"
+    },
+    {
+     "name": "Heather Redwood",
+     "hex": "#A6594B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34427_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/108705_f_fl.jpg"
+    },
+    {
+     "name": "Heather Seafoam",
+     "hex": "#A4BEBA",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/47242_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/140630_f_fl.jpg"
+    },
+    {
+     "name": "Heather Shiitake",
+     "hex": "#736460",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/50572_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/140400_f_fl.jpg"
+    },
+    {
+     "name": "Heather Slate Blue",
+     "hex": "#616E80",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34430_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/108706_f_fl.jpg"
+    },
+    {
+     "name": "Heather Tan",
+     "hex": "#B49F89",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34432_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/108707_f_fl.jpg"
+    },
+    {
+     "name": "Ice Blue",
+     "hex": "#d6e1ec",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34439_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45992_f_fl.jpg"
+    },
+    {
+     "name": "Indigo",
+     "hex": "#34414E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34440_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/42895_f_fl.jpg"
+    },
+    {
+     "name": "Kelly Green",
+     "hex": "#008C45",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34442_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41383_f_fl.jpg"
+    },
+    {
+     "name": "Light Olive",
+     "hex": "#80856D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34445_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41099_f_fl.jpg"
+    },
+    {
+     "name": "Midnight Navy",
+     "hex": "#2A3244",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34453_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41100_f_fl.jpg"
+    },
+    {
+     "name": "Military Green",
+     "hex": "#656344",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34456_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43896_f_fl.jpg"
+    },
+    {
+     "name": "Mint",
+     "hex": "#AFDDCC",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34462_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45993_f_fl.jpg"
+    },
+    {
+     "name": "Neon Heather Green",
+     "hex": "#CFFA8F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34463_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41381_f_fl.jpg"
+    },
+    {
+     "name": "Neon Yellow",
+     "hex": "#EAF383",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34464_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41382_f_fl.jpg"
+    },
+    {
+     "name": "Orange",
+     "hex": "#ff8f1c",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34465_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43898_f_fl.jpg"
+    },
+    {
+     "name": "Purple Rush",
+     "hex": "#603F83",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34468_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41101_f_fl.jpg"
+    },
+    {
+     "name": "Red",
+     "hex": "#CD212A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34470_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41102_f_fl.jpg"
+    },
+    {
+     "name": "Royal",
+     "hex": "#1B5091",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34471_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41103_f_fl.jpg"
+    },
+    {
+     "name": "Sand",
+     "hex": "#CFC8BD",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34472_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45994_f_fl.jpg"
+    },
+    {
+     "name": "Silk",
+     "hex": "#bdbebd",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34473_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45995_f_fl.jpg"
+    },
+    {
+     "name": "Stone Grey",
+     "hex": "#AFA9A0",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34474_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41384_f_fl.jpg"
+    },
+    {
+     "name": "Storm",
+     "hex": "#3B3A5A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34475_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41385_f_fl.jpg"
+    },
+    {
+     "name": "Tahiti Blue",
+     "hex": "#33BECC",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34476_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/49731_f_fl.jpg"
+    },
+    {
+     "name": "Teal",
+     "hex": "#009999",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34477_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/89923_f_fl.jpg"
+    },
+    {
+     "name": "Turquoise",
+     "hex": "#0088B0",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34478_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41104_f_fl.jpg"
+    },
+    {
+     "name": "Warm Grey",
+     "hex": "#8C857B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34479_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43897_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#F4F9FF",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34480_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41105_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  },
+  {
+   "id": "bella-canvas-3001",
+   "label": "Bella Canvas 3001",
+   "tag": "Premium Quality",
+   "brand": "BELLA + CANVAS",
+   "styleName": "3001",
+   "styleNumber": "00606",
+   "title": "Jersey Tee",
+   "blurb": "4.2 oz · 100% Airlume combed and ring-spun cotton",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/29_fl.jpg",
+   "colors": [
+    {
+     "name": "Aqua",
+     "hex": "#4298B5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/10193_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34126_f_fl.jpg"
+    },
+    {
+     "name": "Army",
+     "hex": "#555d51",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/12725_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43533_f_fl.jpg"
+    },
+    {
+     "name": "Ash",
+     "hex": "#C1C6C8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/10927_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37018_f_fl.jpg"
+    },
+    {
+     "name": "Asphalt",
+     "hex": "#6c6864",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/6448_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32566_f_fl.jpg"
+    },
+    {
+     "name": "Atlantic",
+     "hex": "#034146",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23333_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30661_f_fl.jpg"
+    },
+    {
+     "name": "Autumn",
+     "hex": "#944A1F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/17573_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/67440_f_fl.jpg"
+    },
+    {
+     "name": "Baby Blue",
+     "hex": "#89B2C4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/11874_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39901_f_fl.jpg"
+    },
+    {
+     "name": "Berry",
+     "hex": "#C6007E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9787_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32571_f_fl.jpg"
+    },
+    {
+     "name": "Black",
+     "hex": "#000000",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/6512_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30657_f_fl.jpg"
+    },
+    {
+     "name": "Blue Storm",
+     "hex": "#636968",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/30987_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/51951_f_fl.jpg"
+    },
+    {
+     "name": "Brown",
+     "hex": "#423a31",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/8317_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30658_f_fl.jpg"
+    },
+    {
+     "name": "Burnt Orange",
+     "hex": "#CB6015",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9045_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30659_f_fl.jpg"
+    },
+    {
+     "name": "Canvas Red",
+     "hex": "#9D2235",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/7973_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30660_f_fl.jpg"
+    },
+    {
+     "name": "Cardinal",
+     "hex": "#8e1a24",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/7166_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34123_f_fl.jpg"
+    },
+    {
+     "name": "Carolina Blue",
+     "hex": "#88a7d2",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/26040_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/51955_f_fl.jpg"
+    },
+    {
+     "name": "Charity Pink",
+     "hex": "#f04e98",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/16125_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66025_f_fl.jpg"
+    },
+    {
+     "name": "Chestnut",
+     "hex": "#8a4b32",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23334_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32573_f_fl.jpg"
+    },
+    {
+     "name": "Citron",
+     "hex": "#DDE3D5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/20401_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/91626_f_fl.jpg"
+    },
+    {
+     "name": "Clay",
+     "hex": "#A26859",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/26044_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/51920_f_fl.jpg"
+    },
+    {
+     "name": "Cocoa",
+     "hex": "#77615B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/39059_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40685_f_fl.jpg"
+    },
+    {
+     "name": "Columbia Blue",
+     "hex": "#225394",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/19529_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39880_f_fl.jpg"
+    },
+    {
+     "name": "Cool Blue",
+     "hex": "#01426A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/26045_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45717_f_fl.jpg"
+    },
+    {
+     "name": "Coral",
+     "hex": "#FF8870",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/10235_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34509_f_fl.jpg"
+    },
+    {
+     "name": "Dark Grey",
+     "hex": "#38484e",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/12720_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43541_f_fl.jpg"
+    },
+    {
+     "name": "Dark Lavender",
+     "hex": "#A194C2",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/17572_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/51906_f_fl.jpg"
+    },
+    {
+     "name": "Dark Olive",
+     "hex": "#36362d",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/18229_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37020_f_fl.jpg"
+    },
+    {
+     "name": "Deep Teal",
+     "hex": "#005876",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9258_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30672_f_fl.jpg"
+    },
+    {
+     "name": "Dust",
+     "hex": "#c1aa97",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/17894_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/67443_f_fl.jpg"
+    },
+    {
+     "name": "Dusty Blue",
+     "hex": "#A3B2A4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33252_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/91627_f_fl.jpg"
+    },
+    {
+     "name": "Electric Blue",
+     "hex": "#006CB0",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/26046_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66027_f_fl.jpg"
+    },
+    {
+     "name": "Evergreen",
+     "hex": "#115740",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/6562_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30662_f_fl.jpg"
+    },
+    {
+     "name": "Forest",
+     "hex": "#183028",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/13322_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45716_f_fl.jpg"
+    },
+    {
+     "name": "Fuchsia",
+     "hex": "#DB0A5B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/12726_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/51936_f_fl.jpg"
+    },
+    {
+     "name": "Gold",
+     "hex": "#FFA300",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/10928_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37019_f_fl.jpg"
+    },
+    {
+     "name": "Hunter Green",
+     "hex": "#18332F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/39060_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39887_f_fl.jpg"
+    },
+    {
+     "name": "Kelly",
+     "hex": "#007A53",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/8014_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30663_f_fl.jpg"
+    },
+    {
+     "name": "Lavender Blue",
+     "hex": "#787f9e",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23335_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39885_f_fl.jpg"
+    },
+    {
+     "name": "Lavender Dust",
+     "hex": "#ddced3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23336_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/51937_f_fl.jpg"
+    },
+    {
+     "name": "Leaf",
+     "hex": "#729364",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/5626_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30750_f_fl.jpg"
+    },
+    {
+     "name": "Light Blue",
+     "hex": "#bfccd9",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/7489_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30664_f_fl.jpg"
+    },
+    {
+     "name": "Light Violet",
+     "hex": "#A49Ca2",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/30662_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/67442_f_fl.jpg"
+    },
+    {
+     "name": "Lilac",
+     "hex": "#D1ACCE",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/17574_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/67441_f_fl.jpg"
+    },
+    {
+     "name": "Maize Yellow",
+     "hex": "#f0cd64",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/5908_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30665_f_fl.jpg"
+    },
+    {
+     "name": "Marine",
+     "hex": "#007894",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/26041_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66029_f_fl.jpg"
+    },
+    {
+     "name": "Maroon",
+     "hex": "#48252C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9259_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30673_f_fl.jpg"
+    },
+    {
+     "name": "Mauve",
+     "hex": "#B46B6A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/16286_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66024_f_fl.jpg"
+    },
+    {
+     "name": "Military Green",
+     "hex": "#353b23",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/16127_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66032_f_fl.jpg"
+    },
+    {
+     "name": "Mint",
+     "hex": "#A0DAB3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/12728_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43529_f_fl.jpg"
+    },
+    {
+     "name": "Mustard",
+     "hex": "#f0cd64",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/17575_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45722_f_fl.jpg"
+    },
+    {
+     "name": "Natural",
+     "hex": "#DFD1A7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/12727_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43540_f_fl.jpg"
+    },
+    {
+     "name": "Navy",
+     "hex": "#28283d",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/5591_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30666_f_fl.jpg"
+    },
+    {
+     "name": "Ocean Blue",
+     "hex": "#66a5b5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/5585_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30667_f_fl.jpg"
+    },
+    {
+     "name": "Olive",
+     "hex": "#474c21",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/7734_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30668_f_fl.jpg"
+    },
+    {
+     "name": "Orange",
+     "hex": "#e77f2b",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/10194_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34125_f_fl.jpg"
+    },
+    {
+     "name": "Orchid",
+     "hex": "#A5929D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33253_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/91628_f_fl.jpg"
+    },
+    {
+     "name": "Oxblood Black",
+     "hex": "#55394d",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/16288_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66031_f_fl.jpg"
+    },
+    {
+     "name": "Peach",
+     "hex": "#F2bd79",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/14235_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45720_f_fl.jpg"
+    },
+    {
+     "name": "Pebble Brown",
+     "hex": "#857874",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9790_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32569_f_fl.jpg"
+    },
+    {
+     "name": "Pine",
+     "hex": "#425e5a",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/26042_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45718_f_fl.jpg"
+    },
+    {
+     "name": "Pink",
+     "hex": "#f4d2d9",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/11871_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39897_f_fl.jpg"
+    },
+    {
+     "name": "Pink Gravel",
+     "hex": "#Bfb4b1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/39061_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39896_f_fl.jpg"
+    },
+    {
+     "name": "Poppy",
+     "hex": "#E10600",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/19269_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/67444_f_fl.jpg"
+    },
+    {
+     "name": "Purple Storm",
+     "hex": "#75726f",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/39062_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66030_f_fl.jpg"
+    },
+    {
+     "name": "Red",
+     "hex": "#ad132a",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/6634_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32568_f_fl.jpg"
+    },
+    {
+     "name": "Royal Purple",
+     "hex": "#753BBD",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23337_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43546_f_fl.jpg"
+    },
+    {
+     "name": "Rust",
+     "hex": "#9e483f",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/14313_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/51897_f_fl.jpg"
+    },
+    {
+     "name": "Sage",
+     "hex": "#96a693",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23338_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43549_f_fl.jpg"
+    },
+    {
+     "name": "Sand Dune",
+     "hex": "#C39D88",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/19270_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43547_f_fl.jpg"
+    },
+    {
+     "name": "Silver",
+     "hex": "#C7C9C7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9402_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30655_f_fl.jpg"
+    },
+    {
+     "name": "Slate",
+     "hex": "#5c6e76",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/8562_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66028_f_fl.jpg"
+    },
+    {
+     "name": "Soft Cream",
+     "hex": "#D3C4AD",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9791_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32570_f_fl.jpg"
+    },
+    {
+     "name": "Soft Pink",
+     "hex": "#EFDAC8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9269_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32567_f_fl.jpg"
+    },
+    {
+     "name": "Solid Athletic Grey",
+     "hex": "#BABCC0",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/20399_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/91629_f_fl.jpg"
+    },
+    {
+     "name": "Spring Green",
+     "hex": "#e3e582",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23339_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43544_f_fl.jpg"
+    },
+    {
+     "name": "Steel Blue",
+     "hex": "#5F849C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/8347_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30669_f_fl.jpg"
+    },
+    {
+     "name": "Storm",
+     "hex": "#707372",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/16128_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66033_f_fl.jpg"
+    },
+    {
+     "name": "Strobe",
+     "hex": "#Eee971",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23340_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/51934_f_fl.jpg"
+    },
+    {
+     "name": "Sunset",
+     "hex": "#ee7c6f",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/16289_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66972_f_fl.jpg"
+    },
+    {
+     "name": "Synthetic Green",
+     "hex": "#2BAE66",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/20400_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/91630_f_fl.jpg"
+    },
+    {
+     "name": "Tan",
+     "hex": "#cab9a5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/10184_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66034_f_fl.jpg"
+    },
+    {
+     "name": "Teal",
+     "hex": "#00BFB3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9788_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32572_f_fl.jpg"
+    },
+    {
+     "name": "Team Navy",
+     "hex": "#29306f",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/20366_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45721_f_fl.jpg"
+    },
+    {
+     "name": "Team Purple",
+     "hex": "#2E1A47",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9268_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30654_f_fl.jpg"
+    },
+    {
+     "name": "Terracotta",
+     "hex": "#b46a55",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23341_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43548_f_fl.jpg"
+    },
+    {
+     "name": "Thyme",
+     "hex": "#b6b9a7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/30665_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43534_f_fl.jpg"
+    },
+    {
+     "name": "Toast",
+     "hex": "#9E6A38",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23342_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39888_f_fl.jpg"
+    },
+    {
+     "name": "True Royal",
+     "hex": "#2d60a6",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/5844_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30670_f_fl.jpg"
+    },
+    {
+     "name": "Turquoise",
+     "hex": "#00AFD7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/11872_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39898_f_fl.jpg"
+    },
+    {
+     "name": "Vintage Black",
+     "hex": "#212322",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/12719_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43536_f_fl.jpg"
+    },
+    {
+     "name": "Vintage Brown",
+     "hex": "#86715A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/30664_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43550_f_fl.jpg"
+    },
+    {
+     "name": "Vintage Denim",
+     "hex": "#7d98a3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/39063_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66026_f_fl.jpg"
+    },
+    {
+     "name": "Vintage Navy",
+     "hex": "#48555D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/26043_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39886_f_fl.jpg"
+    },
+    {
+     "name": "Vintage Red",
+     "hex": "#C46069",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/39064_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43552_f_fl.jpg"
+    },
+    {
+     "name": "Vintage White",
+     "hex": "#e8e8e8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33254_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/40686_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#f2f0ef",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/7256_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30671_f_fl.jpg"
+    },
+    {
+     "name": "Yellow",
+     "hex": "#F6EB61",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/10195_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34127_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  }
+ ],
+ "longsleeves": [
+  {
+   "id": "gildan-64400",
+   "label": "Gildan G6440",
+   "tag": "Most Popular",
+   "brand": "Gildan",
+   "styleName": "64400",
+   "styleNumber": "05660",
+   "title": "Unisex Softstyle® Long Sleeve T-Shirt",
+   "blurb": "4.5 oz · 100% U.S. ring-spun cotton",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/1941_fl.jpg",
+   "colors": [
+    {
+     "name": "Black",
+     "hex": "#25282A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33853_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32084_f_fl.jpg"
+    },
+    {
+     "name": "Charcoal",
+     "hex": "#66676C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33857_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32085_f_fl.jpg"
+    },
+    {
+     "name": "Cherry Red",
+     "hex": "#AC2B37",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33858_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32086_f_fl.jpg"
+    },
+    {
+     "name": "Dark Chocolate",
+     "hex": "#382F2D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33862_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32087_f_fl.jpg"
+    },
+    {
+     "name": "Fan Deep Royal",
+     "hex": "#21366E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49837_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137576_f_fl.jpg"
+    },
+    {
+     "name": "Heather Dark Grey",
+     "hex": "#53535A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33869_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137579_f_fl.jpg"
+    },
+    {
+     "name": "Military Green",
+     "hex": "#5E7461",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33897_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32088_f_fl.jpg"
+    },
+    {
+     "name": "Navy",
+     "hex": "#263147",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33901_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32089_f_fl.jpg"
+    },
+    {
+     "name": "Purple",
+     "hex": "#464E7E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33907_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/137581_f_fl.jpg"
+    },
+    {
+     "name": "Royal",
+     "hex": "#224D8F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33910_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/98970_f_fl.jpg"
+    },
+    {
+     "name": "Sport Grey",
+     "hex": "#97999B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33916_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32090_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#FFFFFF",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33919_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32091_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  },
+  {
+   "id": "next-level-6411",
+   "label": "Next Level 6411",
+   "tag": "Soft and Smooth Fabric",
+   "brand": "Next Level",
+   "styleName": "6411",
+   "styleNumber": "20818",
+   "title": "Unisex Sueded Long Sleeve T-Shirt",
+   "blurb": "4.3 oz · 60/40 combed ring-spun cotton/polyester",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/6807_fl.jpg",
+   "colors": [
+    {
+     "name": "Black",
+     "hex": "#25282A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34203_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/70760_f_fl.jpg"
+    },
+    {
+     "name": "Dark Heather Grey",
+     "hex": "#707372",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34206_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/72440_f_fl.jpg"
+    },
+    {
+     "name": "Heather Charcoal",
+     "hex": "#6787B7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34207_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/70761_f_fl.jpg"
+    },
+    {
+     "name": "Heather Forest Green",
+     "hex": "#2F5050",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34209_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/70763_f_fl.jpg"
+    },
+    {
+     "name": "Heather Metal",
+     "hex": "#989495",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34211_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/70765_f_fl.jpg"
+    },
+    {
+     "name": "Midnight Navy",
+     "hex": "#2A3244",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34215_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/70766_f_fl.jpg"
+    },
+    {
+     "name": "Royal",
+     "hex": "#1B5091",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34219_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/79905_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#F4F9FF",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/34222_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/70767_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  },
+  {
+   "id": "bella-canvas-3501",
+   "label": "Bella Canvas 3501",
+   "tag": "Quality for Price",
+   "brand": "BELLA + CANVAS",
+   "styleName": "3501",
+   "styleNumber": "05606",
+   "title": "Unisex Jersey Long Sleeve Tee",
+   "blurb": "4.2 oz · 100% Airlume combed and ring-spun cotton",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/123_fl.jpg",
+   "colors": [
+    {
+     "name": "Ash",
+     "hex": "#C1C6C8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/10927_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37034_f_fl.jpg"
+    },
+    {
+     "name": "Asphalt",
+     "hex": "#6c6864",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/6448_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39963_f_fl.jpg"
+    },
+    {
+     "name": "Atlantic",
+     "hex": "#034146",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23333_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66072_f_fl.jpg"
+    },
+    {
+     "name": "Baby Blue",
+     "hex": "#89B2C4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/11874_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29911_f_fl.jpg"
+    },
+    {
+     "name": "Berry",
+     "hex": "#C6007E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9787_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/51891_f_fl.jpg"
+    },
+    {
+     "name": "Black",
+     "hex": "#000000",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/6512_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/17669_f_fl.jpg"
+    },
+    {
+     "name": "Blue Storm",
+     "hex": "#636968",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/30987_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/111874_f_fl.jpg"
+    },
+    {
+     "name": "Canvas Red",
+     "hex": "#9D2235",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/7973_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/82542_f_fl.jpg"
+    },
+    {
+     "name": "Cardinal",
+     "hex": "#8e1a24",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/7166_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/17670_f_fl.jpg"
+    },
+    {
+     "name": "Carolina Blue",
+     "hex": "#88a7d2",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/26040_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39970_f_fl.jpg"
+    },
+    {
+     "name": "Chestnut",
+     "hex": "#8a4b32",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23334_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100426_f_fl.jpg"
+    },
+    {
+     "name": "Citron",
+     "hex": "#DDE3D5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/20401_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/89127_f_fl.jpg"
+    },
+    {
+     "name": "Dark Grey",
+     "hex": "#38484e",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/12720_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/43580_f_fl.jpg"
+    },
+    {
+     "name": "Dark Lavender",
+     "hex": "#A194C2",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/17572_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100429_f_fl.jpg"
+    },
+    {
+     "name": "Forest",
+     "hex": "#183028",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/13322_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/111875_f_fl.jpg"
+    },
+    {
+     "name": "Gold",
+     "hex": "#FFA300",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/10928_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/89126_f_fl.jpg"
+    },
+    {
+     "name": "Kelly",
+     "hex": "#007A53",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/8014_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/32581_f_fl.jpg"
+    },
+    {
+     "name": "Lavender Blue",
+     "hex": "#787f9e",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23335_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100430_f_fl.jpg"
+    },
+    {
+     "name": "Light Violet",
+     "hex": "#A49Ca2",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/30662_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/111876_f_fl.jpg"
+    },
+    {
+     "name": "Maroon",
+     "hex": "#48252C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9259_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/73976_f_fl.jpg"
+    },
+    {
+     "name": "Mauve",
+     "hex": "#B46B6A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/16286_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/17671_f_fl.jpg"
+    },
+    {
+     "name": "Military Green",
+     "hex": "#353b23",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/16127_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66067_f_fl.jpg"
+    },
+    {
+     "name": "Mint",
+     "hex": "#A0DAB3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/12728_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/82543_f_fl.jpg"
+    },
+    {
+     "name": "Mustard",
+     "hex": "#f0cd64",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/17575_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100437_f_fl.jpg"
+    },
+    {
+     "name": "Natural",
+     "hex": "#DFD1A7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/12727_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/82450_f_fl.jpg"
+    },
+    {
+     "name": "Navy",
+     "hex": "#28283d",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/5591_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/27374_f_fl.jpg"
+    },
+    {
+     "name": "Olive",
+     "hex": "#474c21",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/7734_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/17674_f_fl.jpg"
+    },
+    {
+     "name": "Orange",
+     "hex": "#e77f2b",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/10194_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/73979_f_fl.jpg"
+    },
+    {
+     "name": "Pink",
+     "hex": "#f4d2d9",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/11871_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/39964_f_fl.jpg"
+    },
+    {
+     "name": "Poppy",
+     "hex": "#E10600",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/19269_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/89125_f_fl.jpg"
+    },
+    {
+     "name": "Red",
+     "hex": "#ad132a",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/6634_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34510_f_fl.jpg"
+    },
+    {
+     "name": "Silver",
+     "hex": "#C7C9C7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9402_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/82455_f_fl.jpg"
+    },
+    {
+     "name": "Soft Cream",
+     "hex": "#D3C4AD",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9791_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/17672_f_fl.jpg"
+    },
+    {
+     "name": "Steel Blue",
+     "hex": "#5F849C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/8347_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/51882_f_fl.jpg"
+    },
+    {
+     "name": "Storm",
+     "hex": "#707372",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/16128_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66068_f_fl.jpg"
+    },
+    {
+     "name": "Strobe",
+     "hex": "#Eee971",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23340_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100441_f_fl.jpg"
+    },
+    {
+     "name": "Teal",
+     "hex": "#00BFB3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9788_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/51883_f_fl.jpg"
+    },
+    {
+     "name": "Team Purple",
+     "hex": "#2E1A47",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9268_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100442_f_fl.jpg"
+    },
+    {
+     "name": "Terracotta",
+     "hex": "#b46a55",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23341_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100452_f_fl.jpg"
+    },
+    {
+     "name": "Toast",
+     "hex": "#9E6A38",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/23342_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100453_f_fl.jpg"
+    },
+    {
+     "name": "True Royal",
+     "hex": "#2d60a6",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/5844_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34511_f_fl.jpg"
+    },
+    {
+     "name": "Vintage Black",
+     "hex": "#212322",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/12719_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/82453_f_fl.jpg"
+    },
+    {
+     "name": "Vintage Brown",
+     "hex": "#86715A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/30664_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/111877_f_fl.jpg"
+    },
+    {
+     "name": "Vintage Navy",
+     "hex": "#48555D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/26043_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100686_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#f2f0ef",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/7256_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/17675_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  },
+  {
+   "id": "comfort-colors-6014",
+   "label": "Comfort Colors C6014",
+   "tag": "Most Comfortable",
+   "brand": "Comfort Colors",
+   "styleName": "6014",
+   "styleNumber": "08108",
+   "title": "Unisex Garment-Dyed Heavyweight Long Sleeve T-Shirt",
+   "blurb": "6.1 oz · 100% ring spun cotton",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/2217_fl.jpg",
+   "colors": [
+    {
+     "name": "Berry",
+     "hex": "#7E4966",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32914_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46697_f_fl.jpg"
+    },
+    {
+     "name": "Black",
+     "hex": "#25282A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32915_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46698_f_fl.jpg"
+    },
+    {
+     "name": "Blossom",
+     "hex": "#F8BED6",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32916_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46699_f_fl.jpg"
+    },
+    {
+     "name": "Blue Jean",
+     "hex": "#647692",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32917_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34060_f_fl.jpg"
+    },
+    {
+     "name": "Blue Spruce",
+     "hex": "#004C45",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32918_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46700_f_fl.jpg"
+    },
+    {
+     "name": "Brick",
+     "hex": "#8A1538",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32920_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46701_f_fl.jpg"
+    },
+    {
+     "name": "Bright Salmon",
+     "hex": "#FF6D6A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32922_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46702_f_fl.jpg"
+    },
+    {
+     "name": "Brown",
+     "hex": "#63513D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/9028_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34066_f_fl.jpg"
+    },
+    {
+     "name": "Burnt Orange",
+     "hex": "#FF6900",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32923_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46703_f_fl.jpg"
+    },
+    {
+     "name": "Butter",
+     "hex": "#F5E1A4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32924_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46704_f_fl.jpg"
+    },
+    {
+     "name": "Chalky Mint",
+     "hex": "#5CB8B2",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32925_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46706_f_fl.jpg"
+    },
+    {
+     "name": "Chambray",
+     "hex": "#BDD6E6",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32926_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46707_f_fl.jpg"
+    },
+    {
+     "name": "China Blue",
+     "hex": "#002855",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32928_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46709_f_fl.jpg"
+    },
+    {
+     "name": "Crimson",
+     "hex": "#A4123F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32930_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34062_f_fl.jpg"
+    },
+    {
+     "name": "Crunchberry",
+     "hex": "#EF4A81",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32931_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46712_f_fl.jpg"
+    },
+    {
+     "name": "Denim",
+     "hex": "#425563",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32932_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46714_f_fl.jpg"
+    },
+    {
+     "name": "Espresso",
+     "hex": "#533625",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32934_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/104201_f_fl.jpg"
+    },
+    {
+     "name": "Flo Blue",
+     "hex": "#5576D1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32935_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46716_f_fl.jpg"
+    },
+    {
+     "name": "Granite",
+     "hex": "#7C878E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32936_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46717_f_fl.jpg"
+    },
+    {
+     "name": "Grape",
+     "hex": "#211551",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32937_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46718_f_fl.jpg"
+    },
+    {
+     "name": "Graphite",
+     "hex": "#1D252D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32938_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46719_f_fl.jpg"
+    },
+    {
+     "name": "Grey",
+     "hex": "#716E6A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32939_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34067_f_fl.jpg"
+    },
+    {
+     "name": "Hemp",
+     "hex": "#1C4220",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32940_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34063_f_fl.jpg"
+    },
+    {
+     "name": "Hydrangea",
+     "hex": "#A7BCD6",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32941_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/104199_f_fl.jpg"
+    },
+    {
+     "name": "Ice Blue",
+     "hex": "#5B7F95",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32942_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46721_f_fl.jpg"
+    },
+    {
+     "name": "Island Green",
+     "hex": "#00957A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32943_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/73467_f_fl.jpg"
+    },
+    {
+     "name": "Island Reef",
+     "hex": "#8FE2B0",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32944_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46722_f_fl.jpg"
+    },
+    {
+     "name": "Ivory",
+     "hex": "#E7CEB5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32945_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46723_f_fl.jpg"
+    },
+    {
+     "name": "Khaki",
+     "hex": "#A09074",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32946_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46724_f_fl.jpg"
+    },
+    {
+     "name": "Lagoon",
+     "hex": "#05C3DE",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32947_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46726_f_fl.jpg"
+    },
+    {
+     "name": "Light Green",
+     "hex": "#5C7F71",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32948_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46727_f_fl.jpg"
+    },
+    {
+     "name": "Melon",
+     "hex": "#FA9370",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32949_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46728_f_fl.jpg"
+    },
+    {
+     "name": "Midnight",
+     "hex": "#1B365D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32950_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46729_f_fl.jpg"
+    },
+    {
+     "name": "Mustard",
+     "hex": "#F2CD00",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32952_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34064_f_fl.jpg"
+    },
+    {
+     "name": "Navy",
+     "hex": "#0C2340",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32954_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46731_f_fl.jpg"
+    },
+    {
+     "name": "Neon Red Orange",
+     "hex": "#FF585D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32958_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46735_f_fl.jpg"
+    },
+    {
+     "name": "Orchid",
+     "hex": "#C7B2DE",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32960_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/73480_f_fl.jpg"
+    },
+    {
+     "name": "Paprika",
+     "hex": "#CE0037",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32961_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46740_f_fl.jpg"
+    },
+    {
+     "name": "Peachy",
+     "hex": "#d46c36",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32962_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/104200_f_fl.jpg"
+    },
+    {
+     "name": "Pepper",
+     "hex": "#4E4B48",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32963_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34061_f_fl.jpg"
+    },
+    {
+     "name": "Red",
+     "hex": "#C8102E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32978_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46752_f_fl.jpg"
+    },
+    {
+     "name": "Royal Caribe",
+     "hex": "#0082BA",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32965_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46753_f_fl.jpg"
+    },
+    {
+     "name": "Sandstone",
+     "hex": "#A69F88",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32967_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46754_f_fl.jpg"
+    },
+    {
+     "name": "Seafoam",
+     "hex": "#487A7B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32969_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/42398_f_fl.jpg"
+    },
+    {
+     "name": "Terracotta",
+     "hex": "#E3775E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32970_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/73464_f_fl.jpg"
+    },
+    {
+     "name": "True Navy",
+     "hex": "#041E42",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32972_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46756_f_fl.jpg"
+    },
+    {
+     "name": "Violet",
+     "hex": "#7474C1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32979_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46757_f_fl.jpg"
+    },
+    {
+     "name": "Washed Denim",
+     "hex": "#6787B7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32973_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46758_f_fl.jpg"
+    },
+    {
+     "name": "Watermelon",
+     "hex": "#F4364C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32974_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46759_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#ffffff",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32975_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46760_f_fl.jpg"
+    },
+    {
+     "name": "Yam",
+     "hex": "#BE531C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32977_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/34065_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  }
+ ],
+ "hoodies": [
+  {
+   "id": "gildan-18500",
+   "label": "Gildan G18500",
+   "tag": "Best Value & Most Popular",
+   "brand": "Gildan",
+   "styleName": "18500",
+   "styleNumber": "22060",
+   "title": "Unisex Heavy Blend™ Hooded Sweatshirt",
+   "blurb": "8 oz · 50/50 cotton/polyester",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/395_fl.jpg",
+   "colors": [
+    {
+     "name": "Antique Cherry Red",
+     "hex": "#971B2F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33507_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33306_f_fl.jpg"
+    },
+    {
+     "name": "Antique Sapphire",
+     "hex": "#006A8E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33508_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33305_f_fl.jpg"
+    },
+    {
+     "name": "Ash",
+     "hex": "#C8C9C7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33509_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19727_f_fl.jpg"
+    },
+    {
+     "name": "Azalea",
+     "hex": "#DD74A1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33510_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/78809_f_fl.jpg"
+    },
+    {
+     "name": "Black",
+     "hex": "#25282A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33511_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19728_f_fl.jpg"
+    },
+    {
+     "name": "Cardinal Red",
+     "hex": "#8A1538",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33512_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37337_f_fl.jpg"
+    },
+    {
+     "name": "Carolina Blue",
+     "hex": "#7ba4db",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33513_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30057_f_fl.jpg"
+    },
+    {
+     "name": "Charcoal",
+     "hex": "#66676C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33514_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33308_f_fl.jpg"
+    },
+    {
+     "name": "Cherry Red",
+     "hex": "#AC2B37",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33515_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19730_f_fl.jpg"
+    },
+    {
+     "name": "Dark Chocolate",
+     "hex": "#382F2D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33516_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30058_f_fl.jpg"
+    },
+    {
+     "name": "Dark Heather",
+     "hex": "#425563",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33517_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30711_f_fl.jpg"
+    },
+    {
+     "name": "Fan Charcoal Heather",
+     "hex": "#646667",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49799_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/107688_f_fl.jpg"
+    },
+    {
+     "name": "Fan Dark Green",
+     "hex": "#205C40",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49801_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/107684_f_fl.jpg"
+    },
+    {
+     "name": "Fan Deep Royal",
+     "hex": "#21366E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/49803_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/107686_f_fl.jpg"
+    },
+    {
+     "name": "Forest",
+     "hex": "#273B33",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33518_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30060_f_fl.jpg"
+    },
+    {
+     "name": "Garnet",
+     "hex": "#7D2935",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33519_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/38855_f_fl.jpg"
+    },
+    {
+     "name": "Gold",
+     "hex": "#FFA300",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33520_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30061_f_fl.jpg"
+    },
+    {
+     "name": "Graphite Heather",
+     "hex": "#707372",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33521_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52333_f_fl.jpg"
+    },
+    {
+     "name": "Heather Dark Green",
+     "hex": "#43695B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33522_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66747_f_fl.jpg"
+    },
+    {
+     "name": "Heather Dark Maroon",
+     "hex": "#651D32",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33523_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66740_f_fl.jpg"
+    },
+    {
+     "name": "Heather Dark Navy",
+     "hex": "#595478",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33524_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66745_f_fl.jpg"
+    },
+    {
+     "name": "Heather Deep Royal",
+     "hex": "#1D4F91",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33525_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66742_f_fl.jpg"
+    },
+    {
+     "name": "Heather Scarlet Red",
+     "hex": "#B83A4B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33526_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66737_f_fl.jpg"
+    },
+    {
+     "name": "Heliconia",
+     "hex": "#DB3E79",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33527_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30062_f_fl.jpg"
+    },
+    {
+     "name": "Indigo Blue",
+     "hex": "#486D87",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33528_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30063_f_fl.jpg"
+    },
+    {
+     "name": "Irish Green",
+     "hex": "#00A74A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33529_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30064_f_fl.jpg"
+    },
+    {
+     "name": "Light Blue",
+     "hex": "#A4C8E1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33530_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30065_f_fl.jpg"
+    },
+    {
+     "name": "Light Pink",
+     "hex": "#E4C6D4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33531_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30066_f_fl.jpg"
+    },
+    {
+     "name": "Maroon",
+     "hex": "#5B2B42",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33532_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30067_f_fl.jpg"
+    },
+    {
+     "name": "Military Green",
+     "hex": "#5E7461",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33533_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/33304_f_fl.jpg"
+    },
+    {
+     "name": "Mint Green",
+     "hex": "#A0CFA8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33534_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/78818_f_fl.jpg"
+    },
+    {
+     "name": "Navy",
+     "hex": "#263147",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33535_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19741_f_fl.jpg"
+    },
+    {
+     "name": "Neon Blue",
+     "hex": "#0C51A3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/12589_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/107687_f_fl.jpg"
+    },
+    {
+     "name": "Old Gold",
+     "hex": "#C39367",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33536_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/78820_f_fl.jpg"
+    },
+    {
+     "name": "Orange",
+     "hex": "#F4633A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33537_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30068_f_fl.jpg"
+    },
+    {
+     "name": "Orchid",
+     "hex": "#c5b4e3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33538_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/78821_f_fl.jpg"
+    },
+    {
+     "name": "Purple",
+     "hex": "#464E7E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33539_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19744_f_fl.jpg"
+    },
+    {
+     "name": "Red",
+     "hex": "#BA0C2F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33540_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/27674_f_fl.jpg"
+    },
+    {
+     "name": "Royal",
+     "hex": "#224D8F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33541_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/30069_f_fl.jpg"
+    },
+    {
+     "name": "Safety Green",
+     "hex": "#C6D219",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33542_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/38856_f_fl.jpg"
+    },
+    {
+     "name": "Safety Orange",
+     "hex": "#E5801C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33543_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/38857_f_fl.jpg"
+    },
+    {
+     "name": "Safety Pink",
+     "hex": "#E16F8F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33544_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41715_f_fl.jpg"
+    },
+    {
+     "name": "Sand",
+     "hex": "#CABFAD",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33545_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19746_f_fl.jpg"
+    },
+    {
+     "name": "Sapphire",
+     "hex": "#0077B5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33546_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/46135_f_fl.jpg"
+    },
+    {
+     "name": "Sport Grey",
+     "hex": "#97999B",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33547_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19747_f_fl.jpg"
+    },
+    {
+     "name": "Violet",
+     "hex": "#8094DD",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33548_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19749_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#FFFFFF",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33549_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19750_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  },
+  {
+   "id": "bella-canvas-3719",
+   "label": "Bella Canvas 3719",
+   "tag": "Lighter Fit",
+   "brand": "BELLA + CANVAS",
+   "styleName": "3719",
+   "styleNumber": "86306",
+   "title": "Unisex Sponge Fleece Hoodie Sweatshirt",
+   "blurb": "8 oz · 52/48 Airlume combed and ring-spun cotton/polyester",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/2768_fl.jpg",
+   "colors": [
+    {
+     "name": "Ash",
+     "hex": "#C1C6C8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33063_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/87015_f_fl.jpg"
+    },
+    {
+     "name": "Asphalt",
+     "hex": "#54585A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33064_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/73994_f_fl.jpg"
+    },
+    {
+     "name": "Athletic Heather",
+     "hex": "#8C92AC",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33065_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/38807_f_fl.jpg"
+    },
+    {
+     "name": "Atlantic",
+     "hex": "#113B40",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33066_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100462_f_fl.jpg"
+    },
+    {
+     "name": "Autumn",
+     "hex": "#A7492D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33067_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/38810_f_fl.jpg"
+    },
+    {
+     "name": "Black",
+     "hex": "#000000",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33068_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37880_f_fl.jpg"
+    },
+    {
+     "name": "Black Heather",
+     "hex": "#4C4F51",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33069_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/60820_f_fl.jpg"
+    },
+    {
+     "name": "Blue Storm",
+     "hex": "#636968",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/30672_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/111878_f_fl.jpg"
+    },
+    {
+     "name": "Cardinal",
+     "hex": "#9B2743",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33070_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/73983_f_fl.jpg"
+    },
+    {
+     "name": "Carolina Blue",
+     "hex": "#7BA6DE",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33071_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106725_f_fl.jpg"
+    },
+    {
+     "name": "Dark Grey",
+     "hex": "#38484E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33072_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45702_f_fl.jpg"
+    },
+    {
+     "name": "Dark Grey Heather",
+     "hex": "#4c5451",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33073_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37952_f_fl.jpg"
+    },
+    {
+     "name": "Dark Lavender",
+     "hex": "#9F8FCA",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33074_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100463_f_fl.jpg"
+    },
+    {
+     "name": "Deep Heather",
+     "hex": "#75726F",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33075_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37903_f_fl.jpg"
+    },
+    {
+     "name": "DTG Black",
+     "hex": "#2D2926",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33076_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/82553_f_fl.jpg"
+    },
+    {
+     "name": "DTG Dark Grey",
+     "hex": "#38484E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33077_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/82554_f_fl.jpg"
+    },
+    {
+     "name": "DTG White",
+     "hex": "#FFFFFF",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33078_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/82555_f_fl.jpg"
+    },
+    {
+     "name": "Dusty Blue",
+     "hex": "#B4C6C1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33079_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100464_f_fl.jpg"
+    },
+    {
+     "name": "Forest",
+     "hex": "#3E4A4C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33080_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/87022_f_fl.jpg"
+    },
+    {
+     "name": "French Vanilla",
+     "hex": "#f1e19b",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33081_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100469_f_fl.jpg"
+    },
+    {
+     "name": "Gold",
+     "hex": "#FFB81C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33082_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/87029_f_fl.jpg"
+    },
+    {
+     "name": "Heather Blue Lagoon",
+     "hex": "#A3B4B5",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33083_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100467_f_fl.jpg"
+    },
+    {
+     "name": "Heather Charity Pink",
+     "hex": "#De5795",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33084_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100468_f_fl.jpg"
+    },
+    {
+     "name": "Heather Columbia Blue",
+     "hex": "#658bcc",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33085_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106726_f_fl.jpg"
+    },
+    {
+     "name": "Heather Deep Teal",
+     "hex": "#34657f",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33086_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/84678_f_fl.jpg"
+    },
+    {
+     "name": "Heather Dust",
+     "hex": "#D1D3D1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33087_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106727_f_fl.jpg"
+    },
+    {
+     "name": "Heather Forest",
+     "hex": "#49635E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33088_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52126_f_fl.jpg"
+    },
+    {
+     "name": "Heather Maroon",
+     "hex": "#6F3C56",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33089_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/87020_f_fl.jpg"
+    },
+    {
+     "name": "Heather Mauve",
+     "hex": "#B46B6A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33090_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106728_f_fl.jpg"
+    },
+    {
+     "name": "Heather Mustard",
+     "hex": "#F8A800",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33091_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/82550_f_fl.jpg"
+    },
+    {
+     "name": "Heather Navy",
+     "hex": "#E2B484",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33092_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52128_f_fl.jpg"
+    },
+    {
+     "name": "Heather Olive",
+     "hex": "#474c21",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33093_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106729_f_fl.jpg"
+    },
+    {
+     "name": "Heather Red",
+     "hex": "#C53346",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33094_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/87018_f_fl.jpg"
+    },
+    {
+     "name": "Heather Sand Dune",
+     "hex": "#F0C1A3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33095_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/82549_f_fl.jpg"
+    },
+    {
+     "name": "Heather Slate",
+     "hex": "#0D5257",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33096_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52130_f_fl.jpg"
+    },
+    {
+     "name": "Heather Team Purple",
+     "hex": "#2E1A47",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33097_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106730_f_fl.jpg"
+    },
+    {
+     "name": "Heather True Royal",
+     "hex": "#3F5EA9",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33098_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52131_f_fl.jpg"
+    },
+    {
+     "name": "Kelly",
+     "hex": "#007A53",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33099_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106731_f_fl.jpg"
+    },
+    {
+     "name": "Lavender Blue",
+     "hex": "#787F9E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/30670_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/111879_f_fl.jpg"
+    },
+    {
+     "name": "Lilac",
+     "hex": "#9B6A92",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33100_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/87033_f_fl.jpg"
+    },
+    {
+     "name": "Maroon",
+     "hex": "#6F263D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33101_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/73997_f_fl.jpg"
+    },
+    {
+     "name": "Mauve",
+     "hex": "#B46B6A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33102_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/82548_f_fl.jpg"
+    },
+    {
+     "name": "Military Green",
+     "hex": "#445a3e",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33103_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66239_f_fl.jpg"
+    },
+    {
+     "name": "Natural",
+     "hex": "#DFD1A7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33104_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106732_f_fl.jpg"
+    },
+    {
+     "name": "Navy",
+     "hex": "#202A45",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33105_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37881_f_fl.jpg"
+    },
+    {
+     "name": "Orange",
+     "hex": "#FF6A13",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33106_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106733_f_fl.jpg"
+    },
+    {
+     "name": "Peach",
+     "hex": "#2016FF",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33107_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66240_f_fl.jpg"
+    },
+    {
+     "name": "Pink",
+     "hex": "#f7ced7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33108_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106734_f_fl.jpg"
+    },
+    {
+     "name": "Poppy",
+     "hex": "#CA3604",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33109_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/73981_f_fl.jpg"
+    },
+    {
+     "name": "Red",
+     "hex": "#9E1B32",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33110_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/38808_f_fl.jpg"
+    },
+    {
+     "name": "Silver",
+     "hex": "#C7C9C7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33111_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106735_f_fl.jpg"
+    },
+    {
+     "name": "Steel Blue",
+     "hex": "#5F849C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33112_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106736_f_fl.jpg"
+    },
+    {
+     "name": "Storm",
+     "hex": "#707372",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33113_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66241_f_fl.jpg"
+    },
+    {
+     "name": "Strobe",
+     "hex": "#Eee971",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33114_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100466_f_fl.jpg"
+    },
+    {
+     "name": "Tan",
+     "hex": "#A59788",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33115_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/85166_f_fl.jpg"
+    },
+    {
+     "name": "Teal",
+     "hex": "#00BFB3",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33116_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/87034_f_fl.jpg"
+    },
+    {
+     "name": "Team Purple",
+     "hex": "#2E1A47",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33117_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/45703_f_fl.jpg"
+    },
+    {
+     "name": "True Royal",
+     "hex": "#4C619C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33118_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/38809_f_fl.jpg"
+    },
+    {
+     "name": "Vintage Black",
+     "hex": "#212322",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33119_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106737_f_fl.jpg"
+    },
+    {
+     "name": "Vintage Brown",
+     "hex": "#86715A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/30671_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/111880_f_fl.jpg"
+    },
+    {
+     "name": "Vintage White",
+     "hex": "#B4B8B4",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33120_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/87027_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#FFFFFF",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33121_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/37883_f_fl.jpg"
+    },
+    {
+     "name": "Yellow",
+     "hex": "#F6EB61",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/33122_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/66242_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  },
+  {
+   "id": "independent-trading-co-ind4000",
+   "label": "Independent IND4000",
+   "tag": "Thick & Warm",
+   "brand": "Independent Trading Co.",
+   "styleName": "IND4000",
+   "styleNumber": "22276",
+   "title": "Unisex Heavyweight Hooded Sweatshirt",
+   "blurb": "10 oz",
+   "stockImage": "https://www.ssactivewear.com/Images/Style/403_fl.jpg",
+   "colors": [
+    {
+     "name": "Alpine Green",
+     "hex": "#193E34",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29155_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52966_f_fl.jpg"
+    },
+    {
+     "name": "Army",
+     "hex": "#344512",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29156_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/27693_f_fl.jpg"
+    },
+    {
+     "name": "Army Camo",
+     "hex": "#344512",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29157_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41744_f_fl.jpg"
+    },
+    {
+     "name": "Ash Heather",
+     "hex": "#B0B7BC",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/50524_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/140801_f_fl.jpg"
+    },
+    {
+     "name": "Asphalt",
+     "hex": "#2B2C2C",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/32726_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/113961_f_fl.jpg"
+    },
+    {
+     "name": "Black",
+     "hex": "#1b1d1e",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29158_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19810_f_fl.jpg"
+    },
+    {
+     "name": "Black Camo",
+     "hex": "#1b1d1e",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29159_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/79655_f_fl.jpg"
+    },
+    {
+     "name": "Blue Aqua",
+     "hex": "#96D8F1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29196_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/76730_f_fl.jpg"
+    },
+    {
+     "name": "Bone",
+     "hex": "#EEEADF",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29197_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/83636_f_fl.jpg"
+    },
+    {
+     "name": "Brown",
+     "hex": "#5C3D31",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29160_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/102994_f_fl.jpg"
+    },
+    {
+     "name": "Cement",
+     "hex": "#ACA39A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29161_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106389_f_fl.jpg"
+    },
+    {
+     "name": "Charcoal",
+     "hex": "#6A737A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29162_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52964_f_fl.jpg"
+    },
+    {
+     "name": "Charcoal Heather",
+     "hex": "#2A2A2A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29198_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19811_f_fl.jpg"
+    },
+    {
+     "name": "Charcoal Heather/ Black",
+     "hex": "#2A2A2A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29163_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/64735_f_fl.jpg"
+    },
+    {
+     "name": "Dark Green",
+     "hex": "#064F30",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29165_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29198_f_fl.jpg"
+    },
+    {
+     "name": "Darkwood Tree Camo",
+     "hex": "#000000",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/50623_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/140477_f_fl.jpg"
+    },
+    {
+     "name": "Deadwood Tree Camo",
+     "hex": "#B0B7BC",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/47075_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/135140_f_fl.jpg"
+    },
+    {
+     "name": "Desert Duck Camo",
+     "hex": "#AB9381",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/52298_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/144333_f_fl.jpg"
+    },
+    {
+     "name": "Duck Camo",
+     "hex": "#706b57",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29166_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/100669_f_fl.jpg"
+    },
+    {
+     "name": "Dusty Pink",
+     "hex": "#fbd6e1",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29167_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/105702_f_fl.jpg"
+    },
+    {
+     "name": "Dusty Sage",
+     "hex": "#BFCACC",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29168_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106390_f_fl.jpg"
+    },
+    {
+     "name": "Forest Camo",
+     "hex": "#706b57",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29169_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/69869_f_fl.jpg"
+    },
+    {
+     "name": "Gold",
+     "hex": "#FCBA39",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29201_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/83640_f_fl.jpg"
+    },
+    {
+     "name": "Grey Heather",
+     "hex": "#B0B7BC",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29170_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19812_f_fl.jpg"
+    },
+    {
+     "name": "Grey Heather/ Black",
+     "hex": "#B0B7BC",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29171_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/64736_f_fl.jpg"
+    },
+    {
+     "name": "Gunmetal Heather",
+     "hex": "#7E8083",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29174_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/31167_f_fl.jpg"
+    },
+    {
+     "name": "Houndstooth",
+     "hex": "#000000",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29175_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/99356_f_fl.jpg"
+    },
+    {
+     "name": "Lavender",
+     "hex": "#C1A0DA",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29176_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/76734_f_fl.jpg"
+    },
+    {
+     "name": "Light Pink",
+     "hex": "#EEBFDB",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29177_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/67644_f_fl.jpg"
+    },
+    {
+     "name": "Light Yellow",
+     "hex": "#E9DF97",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29204_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/76735_f_fl.jpg"
+    },
+    {
+     "name": "Maroon",
+     "hex": "#642133",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29178_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/29197_f_fl.jpg"
+    },
+    {
+     "name": "Mint",
+     "hex": "#8ADADE",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29179_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/67559_f_fl.jpg"
+    },
+    {
+     "name": "Navy",
+     "hex": "#032E54",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29192_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/104927_f_fl.jpg"
+    },
+    {
+     "name": "Peach",
+     "hex": "#FEC282",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29207_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/76731_f_fl.jpg"
+    },
+    {
+     "name": "Plum",
+     "hex": "#948794",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29180_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106391_f_fl.jpg"
+    },
+    {
+     "name": "Realtree APX Camo",
+     "hex": "#193E34",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/51420_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/142606_f_fl.jpg"
+    },
+    {
+     "name": "Red",
+     "hex": "#C10933",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29209_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19815_f_fl.jpg"
+    },
+    {
+     "name": "Royal",
+     "hex": "#0A5499",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29181_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19816_f_fl.jpg"
+    },
+    {
+     "name": "Saddle",
+     "hex": "#C2805A",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29182_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/67643_f_fl.jpg"
+    },
+    {
+     "name": "Safety Orange",
+     "hex": "#FC6721",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29183_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/83638_f_fl.jpg"
+    },
+    {
+     "name": "Safety Yellow",
+     "hex": "#E7F873",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29210_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/83639_f_fl.jpg"
+    },
+    {
+     "name": "Sandstone",
+     "hex": "#94795D",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29184_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52968_f_fl.jpg"
+    },
+    {
+     "name": "Slate Blue",
+     "hex": "#00263E",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29185_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/52970_f_fl.jpg"
+    },
+    {
+     "name": "Smoke",
+     "hex": "#D7D7D7",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29186_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106393_f_fl.jpg"
+    },
+    {
+     "name": "Snow Camo",
+     "hex": "#bab8b8",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29187_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/41745_f_fl.jpg"
+    },
+    {
+     "name": "Storm Blue",
+     "hex": "#5C6D87",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29188_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/106392_f_fl.jpg"
+    },
+    {
+     "name": "Tiger Camo",
+     "hex": "#000000",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29189_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/76802_f_fl.jpg"
+    },
+    {
+     "name": "White",
+     "hex": "#ffffff",
+     "image": "https://www.ssactivewear.com/Images/ColorSwatch/29190_fm.jpg",
+     "previewImage": "https://www.ssactivewear.com/Images/Color/19817_f_fl.jpg"
+    }
+   ],
+   "fromCatalog": false
+  }
+ ]
+}

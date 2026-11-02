@@ -1,0 +1,54 @@
+<!--
+  Backstage live-pricing embed. Replaces the ConvertCalculator block on
+  backstagescreenprinting.com/live-pricing (a Framer site). In Framer: select the existing
+  Embed that holds the ConvertCalculator code, switch it to HTML, paste this whole block,
+  and set the Embed's height to "Fit Content" if offered (otherwise a fixed 900px; the
+  script below resizes the frame to the form either way).
+
+  FORM_URL is not known yet: the form is not deployed. Replace it before pasting.
+
+  The script only accepts messages from the form's own window, and only reads:
+    obgform_height      -> sets the iframe height (no inner scrolling)
+    obgform_slide       -> keeps the top of the form in view after a step change
+    obgform_submission  -> SUCCESS ONLY. Pushes `obgform_submission` to dataLayer with the
+                           capped conversion value, for a GTM / gtag conversion if one is
+                           ever added on the Framer site. Nothing personal is in it.
+    obgform_call_click  -> pushed to dataLayer the same way.
+-->
+<div id="bs-quote-wrap" style="width:100%;background:#0A0A0A;">
+  <iframe
+    id="bs-quote"
+    src="FORM_URL?source=live-pricing"
+    title="Backstage Screen Printing project request"
+    style="width:100%;height:900px;border:0;display:block;background:#0A0A0A;"
+    referrerpolicy="no-referrer-when-downgrade"
+    allow="clipboard-write"
+  ></iframe>
+</div>
+<script>
+(function () {
+  var frame = document.getElementById('bs-quote');
+  if (!frame) return;
+  // Pass an ad click id through to the form if the page has one.
+  try {
+    var gclid = new URLSearchParams(window.location.search).get('gclid');
+    if (gclid) frame.src = frame.src + '&gclid=' + encodeURIComponent(gclid);
+  } catch (e) {}
+  window.addEventListener('message', function (e) {
+    if (e.source !== frame.contentWindow) return;
+    var d = e.data || {};
+    var kind = d.type || d.event;
+    if (kind === 'obgform_height' && d.height > 0) {
+      frame.style.height = Math.ceil(d.height) + 'px';
+    } else if (kind === 'obgform_slide' && !d.initial) {
+      var top = frame.getBoundingClientRect().top;
+      if (top < 0 || top > window.innerHeight * 0.4) {
+        window.scrollTo({ top: window.scrollY + top - 16, behavior: 'smooth' });
+      }
+    } else if (kind === 'obgform_submission' || kind === 'obgform_call_click') {
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({ event: kind, value: d.conversion_value, quantity: d.quantity });
+    }
+  });
+})();
+</script>
