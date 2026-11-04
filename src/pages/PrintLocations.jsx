@@ -2,7 +2,7 @@ import { useState } from 'react';
 import NavBtns from '../components/NavBtn';
 import Uploader from '../components/Uploader';
 import { PLACEMENTS, MIN_INK, MAX_INK, SCREENS_PER_COLOR } from '../config';
-import { newLocation, clampInk, screenCount, locationHasArt } from '../utils/flow';
+import { newLocation, clampInk, locationHasArt } from '../utils/flow';
 
 // Front and back tabs, carried over from the Local Threads calculator (PR #17, Ryan:
 // "add front and back tabs so customers can upload artwork and enter the number of colors
@@ -45,7 +45,6 @@ export default function PrintLocations({ form, update, busy, setBusy, onNext, on
     ? locations.filter((l) => l.id !== active.id).reduce((sum, l) => sum + l.files.reduce((s, f) => s + (f.data ? f.data.length : 0), 0), 0)
     : 0;
   const index = active ? locations.findIndex((l) => l.id === active.id) : 0;
-  const screens = screenCount(form);
 
   return (
     <>
@@ -131,11 +130,6 @@ export default function PrintLocations({ form, update, busy, setBusy, onNext, on
           </div>
         )}
 
-        {locations.length > 0 && (
-          <p className='loc-summary' data-summary>
-            {locations.length} {locations.length === 1 ? 'location' : 'locations'}, {screens} {screens === 1 ? 'screen' : 'screens'}
-          </p>
-        )}
         {error && <p className='form-error' role='alert'>{error}</p>}
       </div>
       <NavBtns onBack={onBack} onNext={onNext} disabled={busy} nextLabel={busy ? 'Uploading' : 'Continue'} />

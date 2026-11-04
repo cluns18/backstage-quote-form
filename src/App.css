@@ -261,7 +261,6 @@ html.is-embedded .slide-page { border-radius: 0; border-left: 0; border-right: 0
 .loc-count { font-family: var(--bs-font-display); font-size: 30px; min-width: 2ch; text-align: center; }
 .loc-unit { font-weight: 600; font-size: 15px; }
 .loc-remove { margin-left: auto; align-self: center; background: none; border: 0; padding: 8px 0; color: var(--bs-text); font-weight: 600; font-size: 14px; text-decoration: underline; text-underline-offset: 3px; }
-.loc-summary { margin: 0; font-weight: 600; font-size: 14px; }
 
 /* ----------------------------------------------------- inputs + uploader */
 .text-input {
@@ -356,7 +355,6 @@ html.is-embedded .slide-page { border-radius: 0; border-left: 0; border-right: 0
   .loc-col { gap: 5px; }
   .text-area { min-height: 44px; }
   .qf-block { gap: 4px; }
-  .loc-summary { display: none; }
   .loc-step { width: 40px; height: 40px; }
   .loc-count { font-size: 26px; }
 
